@@ -1,0 +1,15 @@
+[{"owner":"","id":0,"rules":
+[{"inverted":true,"sticky":false,"regex":false,"effect":"EXCLUDE","match":"CANDIDATE_HAS_PERMISSION","pattern":"com
+mandspy.use"}]},{"owner":"09b3f568-e49c-4c31-9a9d-7f444d35b1ad","id":1,"rules":
+[{"inverted":true,"sticky":true,"regex":false,"effect":"RETURN","match":"CANDIDATE_IDENTIFIER","pattern":"09b3f568-
+e49c-4c31-9a9d-7f444d35b1ad"}]},{"owner":"009357d4-8126-444e-be65-ca4b99653bfb","id":3,"rules":
+[{"inverted":true,"sticky":true,"regex":false,"effect":"RETURN","match":"CANDIDATE_IDENTIFIER","pattern":"009357d4-
+8126-444e-be65-ca4b99653bfb"}]},{"owner":"09b3f568-e49c-4c31-9a9d-7f444d35b1ad","id":5,"rules":
+[{"inverted":true,"sticky":true,"regex":false,"effect":"RETURN","match":"CANDIDATE_IDENTIFIER","pattern":"09b3f568-
+e49c-4c31-9a9d-7f444d35b1ad"},
+{"inverted":false,"sticky":false,"regex":false,"effect":"INCLUDE","match":"IS_COMMAND","pattern":""}]},
+{"owner":"536ae8b1-2111-4b4e-ad15-e7eed1bf833f","id":8,"rules":
+[{"inverted":true,"sticky":true,"regex":false,"effect":"RETURN","match":"CANDIDATE_IDENTIFIER","pattern":"536ae8b1-
+2111-4b4e-ad15-e7eed1bf833f"}]},{"owner":"536ae8b1-2111-4b4e-ad15-e7eed1bf833f","id":9,"rules":
+2111-4b4e-ad15-e7eed1bf833f"},
+{"inverted":false,"sticky":false,"regex":false,"effect":"INCLUDE","match":"IS_COMMAND","pattern":""}]}]
