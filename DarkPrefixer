@@ -1,3 +1,29 @@
 config.yml
 chat:
   format: '{Prefix} {Name} {Message}'
+players.yml
+Players:
+  KoenRs:
+    nickname: §4KoenRs§r
+    prefix: §7§k.§8(§c§lOwner§8)§7§k.§8(§0Obsidian§8)§7§k.§8
+  vissen:
+    nickname: vissen
+    prefix: §7§k.§8(§c§lCo-Owner§8)§7§k.§8(§aDonator§8)§7§k.§8
+  '3316':
+    nickname: '3316'
+    prefix: ''
+  D_SuperGirl_C:
+    nickname: D_SuperGirl_C
+    prefix: §b§l§k!§b§l(Developer)§k!§0(Obsidian)§b§l§k!§a§l
+  GamingLysanne:
+    nickname: GamingLysanne
+    prefix: §kG§8§l(§4§lAdmin§8§l)§f§kG§8§l(§5§lMaster-Pluginer§8§l)§f§kG§5§l
+  PemaSpeeltMc:
+    nickname: PemaSpeeltMc
+    prefix: §8(§4§lAdmin§8)§f§k;§8(§5§lNoob-Slayer§8)§f§k;§b§l
+  '&bSupergirlw':
+    nickname: §4~§bSupergirl§r
+    prefix: ''
+  Testname:
+    nickname: §4~§bSupergirl§r
+    prefix: ''
