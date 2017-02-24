@@ -1,0 +1,3 @@
+config.yml
+chat:
+  format: '{Prefix} {Name} {Message}'
