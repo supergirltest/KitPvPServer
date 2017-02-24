@@ -1,0 +1,5 @@
+Poll: Information
+Question: This is a KitPvP server! If you need help ask a staff
+Open: true
+OnJoin: true
+Remind: true
